@@ -5,28 +5,34 @@
             "price":"$25,899.99"
         },
         {
-            "nombreColor":"verde",
-            "valorHexadec":"#0f0"
+            "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         },
         {
-            "nombreColor":"azul",
-            "valorHexadec":"#00f"
+            "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         },
         {
-            "nombreColor":"cyan",
-            "valorHexadec":"#0ff"
+            "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         },
         {
-            "nombreColor":"magenta",
-            "valorHexadec":"#f0f"
+              "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         },
         {
-            "nombreColor":"amarillo",
-            "valorHexadec":"#ff0"
+             "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         },
         {
-            "nombreColor":"negro",
-            "valorHexadec":"#000"
+            "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         }
     ]
 }
