@@ -1,7 +1,8 @@
 {
     "Productos":[{
-            "nombreColor":"rojo",
-            "valorHexadec":"#f00"
+            "name":"Celular Y",
+            "description":"Color blanco de 128GB"
+            "price":"$25,899.99"
         },
         {
             "nombreColor":"verde",
